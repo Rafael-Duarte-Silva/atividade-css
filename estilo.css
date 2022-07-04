@@ -43,6 +43,7 @@ img:hover, a:active {
     opacity: 0.9;
     width: 37%;
     height: auto;
+    border: 5px solid rgb(25, 172, 25);
   }
 
 h2{
