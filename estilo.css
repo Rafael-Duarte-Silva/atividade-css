@@ -40,7 +40,9 @@ img{
   }
 
 img:hover, a:active {
-    opacity: 0.8;
+    opacity: 0.9;
+    width: 37%;
+    height: auto;
   }
 
 h2{
