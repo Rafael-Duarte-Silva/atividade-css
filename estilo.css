@@ -47,3 +47,8 @@ img:hover, a:active {
 h2{
   margin-top: 3%;
 }
+
+footer{
+  margin-bottom: 0%;
+  background-color: whitesmoke;
+}
