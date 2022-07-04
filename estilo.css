@@ -40,7 +40,7 @@
    border-radius: 10px;
  }
 
- img:hover, a:active {
+ img:hover{
    opacity: 0.9;
    width: 37%;
    height: auto;
